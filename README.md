@@ -1,44 +1,40 @@
 # Java-Windows-Tutorial
-Just Java problems the tutorial:
+
+##Just Java problems the tutorial:
 1. Download your JDK from
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 2. Find your JDK bin path
-https://drive.google.com/file/d/1Ua8oM7nmGPvjpUwRvsSH8y9YVXxAi6Xw/view?usp=sharing
+<img src="https://lh6.googleusercontent.com/-QCXFj70pponp0bMu2gY4BK0CJsNLTC9tRFZ0Iu3uueQb3itzLQBZuGQfFbIDjXSuZj0tKp_3do8V6gcPFZV=w1920-h902-rw" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_48_07-bin.png" aria-hidden="true">
 
 3. Go open your environment variable settings
-https://drive.google.com/file/d/1Bze9nD3jSpCgG8PBZt2rgyBBFI5lm09B/view?usp=sharing
+<img src="https://lh3.googleusercontent.com/xZvoOGjpVXTIY0Aw0VJOfCn0SHS0_9-0xrHj1A5nt5NA9HefBmC9iwSIwKNSNON-WT58AENuoKT0qgY0yK0e=w1920-h902-rw" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_51_07-Microsoft Edge.png" aria-hidden="true">
 
 4. Open environment variables
-https://drive.google.com/file/d/1vouONOnXbSbdpOp4scyZwpGQtxhqwDmI/view?usp=sharing
+<img src="https://lh3.googleusercontent.com/SIzH35xs1tx4VrLup7UoLMgOOoS9rRIVMgnBTRUt3J502WP7Q4f0maZLsynKLYnR7nQ44n-sFzmpAg7nW3o9=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-20 20_57_32-System Properties.png" aria-hidden="true">
 
 5. Find path and click edit
-https://drive.google.com/file/d/14Gi2jsSSLRSTmA1TWMdWrnY4XWFYPX8b/view?usp=sharing
+<img src="https://lh4.googleusercontent.com/BBB0yp0wVMcr0oW-ah8eWhPOgp21aHiHMhNBUfe3lUzuqxZzUQ91gVMu2kFY03WRGNN1J-PaM6MeAdAtWTxy=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_52_10-Environment Variables-editpath.png" aria-hidden="true">
 
 6. Delete any existing Java paths and click new then enter the bin path that we found in step 2. Click "OK" once you finish doing this.
-https://drive.google.com/file/d/1ecvsaShxYRmM3-jXzsqgrvJJ_6ClUFJZ/view?usp=sharing
+<img src="https://lh3.googleusercontent.com/Mxb-1Nt84jfDJ4SdSqpOFVVhG1LrNKk1cLnGIW2wveXL-HnEvRm6SoeLF3txqPWBEdWiqMyVFRyymnpGFVGP=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_52_30-Edit environment variable.png" aria-hidden="true">
 
 7. Add a new variable named JAVA_HOME to your system variables with the same path we found in step 2.
-https://drive.google.com/file/d/1mjcxMRgGIvbsIykL2yfL4QoetwYaF1uJ/view?usp=sharing
-https://drive.google.com/file/d/1pYXVSw3jEmOO5yY19dN0xChaUMEiJTVI/view?usp=sharing
-
+<img src="https://lh5.googleusercontent.com/jGJYjYhfFfdvz-yHNPTY3s0FcJcgLX1e-SVq2zX6DmRVkBkFAwK-zo98wqhCp5-VFH3d5nbDuOInHY3RILQI=w1920-h902">
+<img src="https://lh3.googleusercontent.com/09PMw9x6DWoErnJlCR1LNYhYE1eGA-dqQBpK0BYFFdRVSnulgTCTISBEJ0L3pjcc7_EP-nfIByVdF7-XmBkU=w1920-h902">
 Now your console commands should be working test them out as well as "java -version" command.
 
-Part II VSCode and Java, the trials of direction.
+## Part II VSCode and Java, the trials of direction.
 
 1. Open up vs code and go to your settings
-https://drive.google.com/file/d/1HE6aFznE9IsvIIfr8la1BF8kqQcRO73V/view?usp=sharing
+<img src="https://lh4.googleusercontent.com/epYt1XT6IyQnWGriFW3SfUEejge5H_cH1jEVrEcdDQEk4Y5ZUujLIqN2CIfGQ9aTK89kg2OuQ-dtwezci_j4=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_49_33-Inbox - CaseyOutlook ‎- Mail.png" aria-hidden="true">
 
 2. Type in java home and open up the settings.json
-https://drive.google.com/file/d/1zaav4gSZMOdCyBouMVRh16diwvpOPi9M/view?usp=sharing
+<img src="https://lh4.googleusercontent.com/epYt1XT6IyQnWGriFW3SfUEejge5H_cH1jEVrEcdDQEk4Y5ZUujLIqN2CIfGQ9aTK89kg2OuQ-dtwezci_j4=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_49_33-Inbox - CaseyOutlook ‎- Mail.png" aria-hidden="true">
 
 3. Find your JDK folder path
-https://drive.google.com/file/d/1bkldJN7c3a4syZ-zbS_q0bTh1uYTdSVl/view?usp=sharing
+<img src="https://lh6.googleusercontent.com/aEB5ICdTrbyzt3CW45CPM_AZn5c-9pccFvVaGH6fzxjsEF-HIMe5W4xrgZNZWF090lqFJEZm9v6esOdlA2O4=w1920-h902" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_48_40-jdk1.8.0_201.png" aria-hidden="true">
 
 4. Edit the settings.json to have Visual studio point to java home
-https://drive.google.com/file/d/1Zl6pVpAyUzEH6DyTHVuu6fykS3KsDvTm/view?usp=sharing
-Make sure to change your single \ to double \\
-e.g
-"C:\Program Files\Java\jdk1.8.0_201"
-becomes
-"C:\\Program Files\\Java\\jdk1.8.0_201"
+<img src="https://lh5.googleusercontent.com/mv-ym-Mx-uWq6R6wRwmYNdqaYGFqutNRWhx3xu0Q8v3UVxa2mT3QL_31Ads5x_MX8HZEwUuFqHa9_FxA1ZJn=w1920-h902-rw" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying 2019-02-23 11_50_42-settings.json - 21-regionalized-content - Visual Studio Code.png" aria-hidden="true">
+
